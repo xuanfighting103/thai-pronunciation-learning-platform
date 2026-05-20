@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thai Pronunciation AI Learning Platform</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar">
+      <a href="#home" class="logo">Thai Pronunciation Lab</a>
+      <button class="menu-toggle" id="menuToggle" aria-label="開啟選單">☰</button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#learn">Learn</a></li>
+        <li><a href="#minimal-pairs">Minimal Pairs</a></li>
+        <li><a href="#tones">Tone Practice</a></li>
+        <li><a href="#ai-tutor">AI Tutor FAQ</a></li>
+        <li><a href="#progress">Progress</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="hero section">
+      <div class="hero-content">
+        <p class="eyebrow">泰語發音聽辨學習平台</p>
+        <h1>Thai Pronunciation AI Learning Platform</h1>
+        <p class="hero-text">
+          這是一個針對中文母語者設計的泰語發音練習平台，幫助你練習
+          <strong>子音清濁</strong>、<strong>不送氣音</strong>與<strong>泰語聲調聽辨</strong>。
+        </p>
+        <div class="hero-actions">
+          <a href="#minimal-pairs" class="btn primary">開始 Minimal Pairs 練習</a>
+          <a href="#tones" class="btn secondary">開始聲調練習</a>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <h2>今日練習重點</h2>
+        <ul>
+          <li>บ / ป：濁音 vs 不送氣清音</li>
+          <li>ด / ต：聲帶震動與否</li>
+          <li>ง / น：詞首鼻音聽辨</li>
+          <li>低聲 / 降聲 / 升聲：音高走向</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="learn" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Learn</p>
+        <h2>學習說明</h2>
+        <p>先理解發音差異，再進入聽辨練習。這裡使用簡單的中文說明，避免一次放太多規則。</p>
+      </div>
+
+      <div class="learn-grid">
+        <article class="info-card">
+          <h3>子音清濁 Voicing Contrast</h3>
+          <p>
+            <strong>บ</strong> 和 <strong>ด</strong> 是濁音，發音時聲帶會震動。
+            <strong>ป</strong> 和 <strong>ต</strong> 是不送氣清音，氣流不強，但聲帶不震動。
+          </p>
+          <p>
+            中文母語者容易把 บ / ป 都聽成接近「ㄅ」，也容易把 ด / ต 都聽成接近「ㄉ」。
+            注音可以輔助理解，但不能完全等同泰語發音。
+          </p>
+          <div class="mini-table">
+            <div><span>บ</span><small>voiced /b/</small></div>
+            <div><span>ป</span><small>voiceless unaspirated /p/</small></div>
+            <div><span>ด</span><small>voiced /d/</small></div>
+            <div><span>ต</span><small>voiceless unaspirated /t/</small></div>
+          </div>
+        </article>
+
+        <article class="info-card">
+          <h3>聲調聽辨 Tone Discrimination</h3>
+          <p>
+            泰語聲調不是只有「高低」，還包含音高走向。
+            低聲整體偏低，降聲會從較高的位置往下降，升聲則會從較低的位置往上升。
+          </p>
+          <div class="tone-guide">
+            <div><span class="tone-line mid">─</span><strong>中聲</strong><small>平穩</small></div>
+            <div><span class="tone-line low">▁</span><strong>低聲</strong><small>偏低</small></div>
+            <div><span class="tone-line falling">↘</span><strong>降聲</strong><small>往下降</small></div>
+            <div><span class="tone-line rising">↗</span><strong>升聲</strong><small>往上升</small></div>
+          </div>
+        </article>
+      </div>
+
+      <div class="notice">
+        <strong>學習提醒：</strong>
+        本平台的練習目標是幫助你建立泰語發音聽辨能力。如果一開始聽不出差異，這很正常。
+        請反覆聽、慢慢比較，不需要一次就全部答對。
+      </div>
+    </section>
+
+    <section id="minimal-pairs" class="section practice-section">
+      <div class="section-heading">
+        <p class="eyebrow">Minimal Pairs｜ความก้องของพยัญชนะ</p>
+        <h2>Voicing Contrast：濁音 vs 不送氣清音</h2>
+        <p>請聽音檔，選出你聽到的詞。音檔尚未上傳時，題目仍可正常練習與瀏覽。</p>
+      </div>
+
+      <div class="toolbar">
+        <label for="minimalCategory">選擇題組</label>
+        <select id="minimalCategory">
+          <option value="all">全部題組</option>
+        </select>
+        <button class="btn secondary small" id="shuffleMinimal">隨機排序</button>
+      </div>
+
+      <div id="minimalStats" class="stats-card"></div>
+      <div id="minimalContainer" class="question-list"></div>
+    </section>
+
+    <section id="tones" class="section practice-section">
+      <div class="section-heading">
+        <p class="eyebrow">Tone Discrimination｜แยกวรรณยุกต์</p>
+        <h2>聲調聽辨：Low / Falling / Rising</h2>
+        <p>練習低聲、降聲、升聲與中聲的聽覺差異。請特別注意音高走向。</p>
+      </div>
+
+      <div class="toolbar">
+        <label for="toneCategory">選擇題組</label>
+        <select id="toneCategory">
+          <option value="all">全部題組</option>
+        </select>
+        <button class="btn secondary small" id="shuffleTone">隨機排序</button>
+      </div>
+
+      <div id="toneStats" class="stats-card"></div>
+      <div id="toneContainer" class="question-list"></div>
+    </section>
+
+    <section id="ai-tutor" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">AI Tutor FAQ</p>
+        <h2>常見問題學習輔助</h2>
+        <p>GitHub Pages 沒有後端，所以這裡先設計成 FAQ 模擬區。之後也可以再串接真正的 AI API。</p>
+      </div>
+      <div id="faqContainer" class="faq-list"></div>
+    </section>
+
+    <section id="progress" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Progress</p>
+        <h2>學習進度</h2>
+        <p>你的答題紀錄會儲存在瀏覽器 localStorage。清除瀏覽器資料後，進度也會被清除。</p>
+      </div>
+
+      <div class="progress-grid">
+        <div class="progress-card">
+          <h3>總練習紀錄</h3>
+          <div id="overallProgress"></div>
+          <button class="btn danger small" id="resetProgress">清除進度</button>
+        </div>
+        <div class="progress-card">
+          <h3>錯題整理</h3>
+          <div id="mistakeList"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Thai Pronunciation AI Learning Platform｜適合中文母語者的泰語發音聽辨練習
+    </p>
+    <p class="footer-note">
+      AI 或合成音檔可能無法完全呈現泰語母語者的自然發音。建議搭配老師、母語者或真人錄音一起練習。
+    </p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
