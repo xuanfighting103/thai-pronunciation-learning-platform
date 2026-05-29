@@ -17,7 +17,7 @@
       "meaningHint": "阿姨"
     },
     "correctAnswer": "ป่า",
-    "audio": "audio/tones/paa_low.mp3",
+    "audio": "audio/tones/paa_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "ป่า 是低聲，音高較低；ป้า 是降聲，會從較高的位置往下降。"
@@ -40,7 +40,7 @@
       "meaningHint": "阿姨"
     },
     "correctAnswer": "ป้า",
-    "audio": "audio/tones/paa_falling.mp3",
+    "audio": "audio/tones/paa_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "ป่า 是低聲，音高較低；ป้า 是降聲，會從較高的位置往下降。"
@@ -63,7 +63,7 @@
       "meaningHint": "我；奴僕"
     },
     "correctAnswer": "ข่า",
-    "audio": "audio/tones/khaa_low.mp3",
+    "audio": "audio/tones/khaa_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "ข่า 是低聲；ข้า 是降聲。低聲整體偏低，降聲會有往下降的感覺。"
@@ -86,7 +86,7 @@
       "meaningHint": "我；奴僕"
     },
     "correctAnswer": "ข้า",
-    "audio": "audio/tones/khaa_falling.mp3",
+    "audio": "audio/tones/khaa_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "ข่า 是低聲；ข้า 是降聲。低聲整體偏低，降聲會有往下降的感覺。"
@@ -109,7 +109,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "กี่",
-    "audio": "audio/tones/kii_low.mp3",
+    "audio": "audio/tones/kii_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "กี่ 是低聲；กี้ 是降聲。請聽音高是否從較高的位置往下降。"
@@ -132,7 +132,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "กี้",
-    "audio": "audio/tones/kii_falling.mp3",
+    "audio": "audio/tones/kii_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "กี่ 是低聲；กี้ 是降聲。請聽音高是否從較高的位置往下降。"
@@ -155,7 +155,7 @@
       "meaningHint": "飯；米"
     },
     "correctAnswer": "ข่าว",
-    "audio": "audio/tones/khaao_low_news.mp3",
+    "audio": "audio/tones/khaao_low_news.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "ข่าว 是低聲，意思是新聞；ข้าว 是降聲，意思是飯或米。"
@@ -178,7 +178,7 @@
       "meaningHint": "飯；米"
     },
     "correctAnswer": "ข้าว",
-    "audio": "audio/tones/khaao_falling_rice.mp3",
+    "audio": "audio/tones/khaao_falling_rice.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "ข่าว 是低聲，意思是新聞；ข้าว 是降聲，意思是飯或米。"
@@ -201,7 +201,7 @@
       "meaningHint": "百貨公司"
     },
     "correctAnswer": "ห่าง",
-    "audio": "audio/tones/haang_low.mp3",
+    "audio": "audio/tones/haang_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "ห่าง 是低聲；ห้าง 是降聲。請注意降聲有往下掉的音高走向。"
@@ -224,7 +224,7 @@
       "meaningHint": "百貨公司"
     },
     "correctAnswer": "ห้าง",
-    "audio": "audio/tones/haang_falling.mp3",
+    "audio": "audio/tones/haang_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "ห่าง 是低聲；ห้าง 是降聲。請注意降聲有往下掉的音高走向。"
@@ -247,7 +247,7 @@
       "meaningHint": "親近；熟"
     },
     "correctAnswer": "สี่",
-    "audio": "audio/tones/sii_low.mp3",
+    "audio": "audio/tones/sii_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "สี่ 是低聲；ซี้ 是降聲。請先聽整體音高，再聽音高走向。"
@@ -270,7 +270,7 @@
       "meaningHint": "親近；熟"
     },
     "correctAnswer": "ซี้",
-    "audio": "audio/tones/sii_falling.mp3",
+    "audio": "audio/tones/sii_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "สี่ 是低聲；ซี้ 是降聲。請先聽整體音高，再聽音高走向。"
@@ -293,7 +293,7 @@
       "meaningHint": "厚"
     },
     "correctAnswer": "นา",
-    "audio": "audio/tones/naa_mid.mp3",
+    "audio": "audio/tones/naa_mid.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "mid",
     "explanation": "นา 是中聲，音高較平穩；หนา 是升聲，會從低的位置往上升。"
@@ -316,7 +316,7 @@
       "meaningHint": "厚"
     },
     "correctAnswer": "หนา",
-    "audio": "audio/tones/naa_rising.mp3",
+    "audio": "audio/tones/naa_rising.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "rising",
     "explanation": "นา 是中聲，音高較平穩；หนา 是升聲，會從低的位置往上升。"
@@ -339,7 +339,7 @@
       "meaningHint": "腿；腳"
     },
     "correctAnswer": "คา",
-    "audio": "audio/tones/khaa_mid.mp3",
+    "audio": "audio/tones/khaa_mid.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "mid",
     "explanation": "คา 是中聲，音高較平穩；ขา 是升聲，會從低的位置往上升。"
@@ -362,7 +362,7 @@
       "meaningHint": "腿；腳"
     },
     "correctAnswer": "ขา",
-    "audio": "audio/tones/khaa_rising.mp3",
+    "audio": "audio/tones/khaa_rising.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "rising",
     "explanation": "คา 是中聲，音高較平穩；ขา 是升聲，會從低的位置往上升。"
@@ -385,7 +385,7 @@
       "meaningHint": "白色"
     },
     "correctAnswer": "ข่าว",
-    "audio": "audio/tones/khaao_low_news.mp3",
+    "audio": "audio/tones/khaao_low_news.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "low",
     "explanation": "ข่าว 是低聲，意思是新聞；ขาว 是升聲，意思是白色。"
@@ -408,7 +408,7 @@
       "meaningHint": "白色"
     },
     "correctAnswer": "ขาว",
-    "audio": "audio/tones/khaao_rising_white.mp3",
+    "audio": "audio/tones/khaao_rising_white.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "rising",
     "explanation": "ข่าว 是低聲，意思是新聞；ขาว 是升聲，意思是白色。"
@@ -431,7 +431,7 @@
       "meaningHint": "白色"
     },
     "correctAnswer": "ข้าว",
-    "audio": "audio/tones/khaao_falling_rice.mp3",
+    "audio": "audio/tones/khaao_falling_rice.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "falling",
     "explanation": "ข้าว 是降聲，意思是飯或米；ขาว 是升聲，意思是白色。"
@@ -454,7 +454,7 @@
       "meaningHint": "白色"
     },
     "correctAnswer": "ขาว",
-    "audio": "audio/tones/khaao_rising_white.mp3",
+    "audio": "audio/tones/khaao_rising_white.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "toneContour": "rising",
     "explanation": "ข้าว 是降聲，意思是飯或米；ขาว 是升聲，意思是白色。"
