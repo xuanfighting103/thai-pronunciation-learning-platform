@@ -17,7 +17,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "บาน",
-    "audio": "audio/minimal-pairs/ban.mp3",
+    "audio": "audio/minimal-pairs/ban.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -39,7 +39,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ปาน",
-    "audio": "audio/minimal-pairs/pan.mp3",
+    "audio": "audio/minimal-pairs/pan.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -61,7 +61,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "โบ",
-    "audio": "audio/minimal-pairs/bo.mp3",
+    "audio": "audio/minimal-pairs/bo.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -83,7 +83,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "โป",
-    "audio": "audio/minimal-pairs/po.mp3",
+    "audio": "audio/minimal-pairs/po.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -105,7 +105,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ใบ",
-    "audio": "audio/minimal-pairs/bai.mp3",
+    "audio": "audio/minimal-pairs/bai.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -127,7 +127,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ไป",
-    "audio": "audio/minimal-pairs/pai.mp3",
+    "audio": "audio/minimal-pairs/pai.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -149,7 +149,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "บ้า",
-    "audio": "audio/minimal-pairs/baa_falling.mp3",
+    "audio": "audio/minimal-pairs/baa_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -171,7 +171,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ป้า",
-    "audio": "audio/minimal-pairs/paa_falling.mp3",
+    "audio": "audio/minimal-pairs/paa_falling.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -193,7 +193,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "บิน",
-    "audio": "audio/minimal-pairs/bin.mp3",
+    "audio": "audio/minimal-pairs/bin.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -215,7 +215,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ปิน",
-    "audio": "audio/minimal-pairs/pin.mp3",
+    "audio": "audio/minimal-pairs/pin.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -237,7 +237,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "บน",
-    "audio": "audio/minimal-pairs/bon.mp3",
+    "audio": "audio/minimal-pairs/bon.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -259,7 +259,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ปน",
-    "audio": "audio/minimal-pairs/pon.mp3",
+    "audio": "audio/minimal-pairs/pon.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "บ 是濁音，發音時聲帶會震動；ป 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -281,7 +281,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ดวง",
-    "audio": "audio/minimal-pairs/duang.mp3",
+    "audio": "audio/minimal-pairs/duang.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -303,7 +303,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ตวง",
-    "audio": "audio/minimal-pairs/tuang.mp3",
+    "audio": "audio/minimal-pairs/tuang.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -325,7 +325,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ด่า",
-    "audio": "audio/minimal-pairs/daa_low.mp3",
+    "audio": "audio/minimal-pairs/daa_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -347,7 +347,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ต่า",
-    "audio": "audio/minimal-pairs/taa_low.mp3",
+    "audio": "audio/minimal-pairs/taa_low.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -369,7 +369,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ดี",
-    "audio": "audio/minimal-pairs/dii.mp3",
+    "audio": "audio/minimal-pairs/dii.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -391,7 +391,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ตี",
-    "audio": "audio/minimal-pairs/tii.mp3",
+    "audio": "audio/minimal-pairs/tii.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -413,7 +413,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ดึง",
-    "audio": "audio/minimal-pairs/dueng.mp3",
+    "audio": "audio/minimal-pairs/dueng.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -435,7 +435,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ตึง",
-    "audio": "audio/minimal-pairs/tueng.mp3",
+    "audio": "audio/minimal-pairs/tueng.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -457,7 +457,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ดอง",
-    "audio": "audio/minimal-pairs/dong.mp3",
+    "audio": "audio/minimal-pairs/dong.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -479,7 +479,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ตอง",
-    "audio": "audio/minimal-pairs/tong.mp3",
+    "audio": "audio/minimal-pairs/tong.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -501,7 +501,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "เดา",
-    "audio": "audio/minimal-pairs/dao.mp3",
+    "audio": "audio/minimal-pairs/dao.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -523,7 +523,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "เตา",
-    "audio": "audio/minimal-pairs/tao.mp3",
+    "audio": "audio/minimal-pairs/tao.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -545,7 +545,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ดู",
-    "audio": "audio/minimal-pairs/duu.mp3",
+    "audio": "audio/minimal-pairs/duu.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -567,7 +567,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ตู",
-    "audio": "audio/minimal-pairs/tuu.mp3",
+    "audio": "audio/minimal-pairs/tuu.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ด 是濁音，發音時聲帶會震動；ต 是不送氣清音，氣流不強，但聲帶不震動。"
   },
@@ -589,7 +589,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "งา",
-    "audio": "audio/minimal-pairs/ngaa.mp3",
+    "audio": "audio/minimal-pairs/ngaa.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ง 是 /ŋ/ 音，舌根靠近軟顎；น 是 /n/ 音，舌尖靠近上方。ง 在詞首對中文母語者比較困難。"
   },
@@ -611,7 +611,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "นา",
-    "audio": "audio/minimal-pairs/naa.mp3",
+    "audio": "audio/minimal-pairs/naa.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ง 是 /ŋ/ 音，舌根靠近軟顎；น 是 /n/ 音，舌尖靠近上方。ง 在詞首對中文母語者比較困難。"
   },
@@ -633,7 +633,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "งู",
-    "audio": "audio/minimal-pairs/nguu.mp3",
+    "audio": "audio/minimal-pairs/nguu.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ง 是 /ŋ/ 音，舌根靠近軟顎；น 是 /n/ 音，舌尖靠近上方。ง 在詞首對中文母語者比較困難。"
   },
@@ -655,7 +655,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "นู",
-    "audio": "audio/minimal-pairs/nuu.mp3",
+    "audio": "audio/minimal-pairs/nuu.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ง 是 /ŋ/ 音，舌根靠近軟顎；น 是 /n/ 音，舌尖靠近上方。ง 在詞首對中文母語者比較困難。"
   },
@@ -677,7 +677,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "รัก",
-    "audio": "audio/minimal-pairs/rak.mp3",
+    "audio": "audio/minimal-pairs/rak.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ร 的舌頭動作較明顯，可以接近彈舌或顫音；ล 是側音，氣流會從舌頭兩側通過。"
   },
@@ -699,7 +699,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ลัก",
-    "audio": "audio/minimal-pairs/lak.mp3",
+    "audio": "audio/minimal-pairs/lak.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ร 的舌頭動作較明顯，可以接近彈舌或顫音；ล 是側音，氣流會從舌頭兩側通過。"
   },
@@ -721,7 +721,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ราย",
-    "audio": "audio/minimal-pairs/raai.mp3",
+    "audio": "audio/minimal-pairs/raai.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ร 的舌頭動作較明顯，可以接近彈舌或顫音；ล 是側音，氣流會從舌頭兩側通過。"
   },
@@ -743,7 +743,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ลาย",
-    "audio": "audio/minimal-pairs/laai.mp3",
+    "audio": "audio/minimal-pairs/laai.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ร 的舌頭動作較明顯，可以接近彈舌或顫音；ล 是側音，氣流會從舌頭兩側通過。"
   },
@@ -765,7 +765,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "รวย",
-    "audio": "audio/minimal-pairs/ruai.mp3",
+    "audio": "audio/minimal-pairs/ruai.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ร 的舌頭動作較明顯，可以接近彈舌或顫音；ล 是側音，氣流會從舌頭兩側通過。"
   },
@@ -787,7 +787,7 @@
       "meaningHint": ""
     },
     "correctAnswer": "ลวย",
-    "audio": "audio/minimal-pairs/luai.mp3",
+    "audio": "audio/minimal-pairs/luai.m4a",
     "question": "請聽音檔，選出你聽到的詞。",
     "explanation": "ร 的舌頭動作較明顯，可以接近彈舌或顫音；ล 是側音，氣流會從舌頭兩側通過。"
   }
