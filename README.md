@@ -8,11 +8,11 @@
 - Voicing Contrast 清濁音對比
 - Voiced vs. Unaspirated 練習
 - Low vs. Falling Tone 聲調聽辨
-- Advanced Tone Discrimination 進階聲調聽辨
+- 進階聲調聽辨
 - 即時答題回饋
 - 錯題整理
-- localStorage 學習進度儲存
-- AI Tutor FAQ 學習輔助
+- 學習進度儲存
+- 學習輔助
 - 音檔缺漏時仍可正常顯示題目
 
 ## Target Learners
